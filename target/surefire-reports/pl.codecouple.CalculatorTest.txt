@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: pl.codecouple.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.226 s <<< FAILURE! - in pl.codecouple.CalculatorTest
+shouldReturnFive  Time elapsed: 0.213 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expecting:
+ <5>
+to be equal to:
+ <6>
+but was not.
+	at pl.codecouple.CalculatorTest.shouldReturnFive(CalculatorTest.java:19)
+
