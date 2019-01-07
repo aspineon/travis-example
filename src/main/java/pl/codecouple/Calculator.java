@@ -6,7 +6,7 @@ package pl.codecouple;
 class Calculator {
 
     int add(final int first, final int second) {
-        return first + second;
+        return first * second;
     }
 
 }
