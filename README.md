@@ -1,4 +1,4 @@
 # travis-example
 Travis CI - example
 
-Build status: https://travis-ci.org/kchrusciel/travis-example.svg?branch=master
+[![Build Status](https://travis-ci.org/kchrusciel/travis-example.svg?branch=master)](https://travis-ci.org/kchrusciel/travis-example)
